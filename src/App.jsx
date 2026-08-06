@@ -498,7 +498,7 @@ function App() {
                 <p>Where the platform owner onboards clinics, manages staff accounts, and tracks usage and cost across every location.</p>
               </article>
               <article className="platform-card">
-                <span className="platform-tag"><a href="https://care-os-public.vercel.app" target="_blank" rel="noreferrer">Public</a></span>
+                <span className="platform-tag"><a href="https://care-os-brand-portal.vercel.app/" target="_blank" rel="noreferrer">Public</a></span>
                 <h3>This site</h3>
                 <p>Where a clinic first learns what CareOS does, before anyone on their team logs into anything.</p>
               </article>
