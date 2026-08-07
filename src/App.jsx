@@ -425,7 +425,7 @@ function App() {
                 <span className="feature-icon" aria-hidden="true">
                   <svg viewBox="0 0 40 40"><circle cx="14" cy="14" r="4" fill="none" stroke="currentColor" strokeWidth="1.6"/><circle cx="26" cy="14" r="4" fill="none" stroke="currentColor" strokeWidth="1.6"/><circle cx="20" cy="27" r="4" fill="none" stroke="currentColor" strokeWidth="1.6"/></svg>
                 </span>
-                <h3>Super-admin oversight</h3>
+                <h3>Developer - Platform Owner Oversight</h3>
                 <p>Onboard clinics, manage staff, and track how much usage was free (rule-based) versus paid (AI) — across the whole platform.</p>
               </article>
             </div>
@@ -493,8 +493,8 @@ function App() {
                 <p>Where staff see every booking, every conversation, every urgent flag, and every piece of feedback, as it happens.</p>
               </article>
               <article className="platform-card">
-                <span className="platform-tag"><a href="https://care-os-super-admin.vercel.app" target="_blank" rel="noreferrer"> 🛡️ Super Admin Dashboard </a></span>
-                <h3>Super-admin console</h3>
+                <span className="platform-tag"><a href="https://care-os-super-admin.vercel.app" target="_blank" rel="noreferrer"> 🛡️ Developer - Platform Owner Dashboard </a></span>
+                <h3>Developer - Platform Owner console</h3>
                 <p>Where the platform owner onboards clinics, manages staff accounts, and tracks usage and cost across every location.</p>
               </article>
               <article className="platform-card">
